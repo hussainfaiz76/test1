@@ -10,6 +10,7 @@ public class DemoApplication {
 		String name = "mike";
 		int x = 100;
 		int y = 200;
+		double z = 10.3;
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
