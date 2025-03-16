@@ -12,6 +12,10 @@ public class DemoApplication {
 		boolean isPresent = false;
 		int y = 200;
 		char z = 'a';
+		int y = 200;
+		double z = 10.3;
+		boolean isPresent = false;
+		float m = 10.3f;
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
