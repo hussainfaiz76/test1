@@ -6,3 +6,8 @@ are
 you?
 I'm
 good.
+
+Class B{
+
+Feature added
+}
