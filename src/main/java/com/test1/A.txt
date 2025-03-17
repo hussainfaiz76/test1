@@ -11,3 +11,7 @@ Class B{
 
 Feature added
 }
+Class A{
+
+50 % done
+}
